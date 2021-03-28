@@ -15,6 +15,7 @@ public class Window {
     public void changeSize(int height, int width){
         height = height;
         width = width;
+        int i = 0;
     }
 
     public void printSize(){
