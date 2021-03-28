@@ -24,6 +24,7 @@ public class Solution {
         StringTokenizer st = new StringTokenizer(query, delimiter);
         String[] str = new String[st.countTokens()];
         if (st.hasMoreTokens()) {
+
             for (int i = 0; i < str.length; i++) {
                 str[i] = st.nextToken();
             }
