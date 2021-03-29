@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50588a22-7c50-4aa7-a89c-37b9c09a4bfb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task11/task1105/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task11/task1106/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task11/task1107/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task11/task1108/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task11/task1104/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task11/task1104/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javarush/task/pro/task11/task1105/Window.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task11/task1105/Window.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -411,7 +407,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616966060049</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="My commit">
+      <created>1617019295473</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1617019295473</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
