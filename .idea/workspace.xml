@@ -4,148 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50588a22-7c50-4aa7-a89c-37b9c09a4bfb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task11/task1109/Outer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task11/task1109/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task11/task1123/UniversityGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task11/task1125/University.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task12/task1201/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="50588a22-7c50-4aa7-a89c-37b9c09a4bfb" name="Default Changelist" comment="My commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task05/task0501/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task05/task0501/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task05/task0502/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task05/task0502/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task05/task0503/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task05/task0503/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task05/task0504/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task05/task0504/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task05/task0505/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task05/task0505/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task05/task0506/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task05/task0506/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task05/task0508/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task05/task0508/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task05/task0509/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task05/task0509/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task05/task0510/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task05/task0510/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task05/task0511/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task05/task0511/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task05/task0512/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task05/task0512/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task05/task0513/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task05/task0513/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task05/task0514/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task05/task0514/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task05/task0515/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task05/task0515/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task05/task0516/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task05/task0516/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task05/task0517/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task05/task0517/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task05/task0518/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task05/task0518/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task05/task0519/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task05/task0519/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task05/task0520/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task05/task0520/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task05/task0521/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task05/task0521/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task06/task0601/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task06/task0601/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task06/task0602/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task06/task0602/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task06/task0603/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task06/task0603/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task06/task0604/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task06/task0604/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task06/task0605/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task06/task0605/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task06/task0606/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task06/task0606/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task06/task0607/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task06/task0607/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task06/task0608/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task06/task0608/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task06/task0609/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task06/task0609/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task06/task0610/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task06/task0610/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task06/task0611/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task06/task0611/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task06/task0612/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task06/task0612/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task06/task0613/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task06/task0613/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task06/task0614/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task06/task0614/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task06/task0615/Earth.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task06/task0615/Earth.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task06/task0616/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task06/task0616/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task07/task0701/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task07/task0701/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task07/task0702/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task07/task0702/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task07/task0703/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task07/task0703/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task07/task0704/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task07/task0704/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task07/task0705/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task07/task0705/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task07/task0706/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task07/task0706/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task07/task0707/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task07/task0707/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task07/task0708/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task07/task0708/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task07/task0709/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task07/task0709/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task07/task0710/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task07/task0710/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task07/task0711/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task07/task0711/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task07/task0712/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task07/task0712/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task08/task0801/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task08/task0801/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task08/task0802/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task08/task0802/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task08/task0803/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task08/task0803/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task08/task0804/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task08/task0804/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task08/task0805/MagicBall.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task08/task0805/MagicBall.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task08/task0805/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task08/task0805/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task08/task0806/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task08/task0806/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task08/task0809/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task08/task0809/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task08/task0810/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task08/task0810/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task08/task0811/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task08/task0811/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task09/task0905/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task09/task0905/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task09/task0906/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task09/task0906/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task09/task0907/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task09/task0907/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task09/task0908/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task09/task0908/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task09/task0909/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task09/task0909/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task09/task0911/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task09/task0911/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task09/task0912/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task09/task0912/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task09/task0913/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task09/task0913/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task09/task0914/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task09/task0914/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task09/task0915/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task09/task0915/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task09/task0916/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task09/task0916/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task09/task0917/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task09/task0917/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task09/task0918/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task09/task0918/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task09/task0919/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task09/task0919/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1001/Skyscraper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1001/Skyscraper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1002/Skyscraper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1002/Skyscraper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1002/var.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1003/Skyscraper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1003/Skyscraper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1003/var.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1004/CarConcern.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1004/CarConcern.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1004/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1004/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1005/Building.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1005/Building.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1006/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1006/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1006/ElectricCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1006/ElectricCar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1006/GasCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1006/GasCar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1006/HybridCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1006/HybridCar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1006/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1006/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1007/Bugatti.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1007/Bugatti.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1008/Programmer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1008/Programmer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1009/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1009/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1010/Iphone.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1010/Iphone.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1010/var.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1011/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1011/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1011/var.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1012/Memory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1012/Memory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1013/Hotel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1013/Hotel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1014/Market.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1014/Market.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1015/Hedgehog$Apple.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1015/Hedgehog$Apple.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1015/Hedgehog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1015/Hedgehog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1016/City.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1016/City.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1016/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1016/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1017/Africa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1017/Africa.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1017/Antarctica.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1017/Antarctica.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1017/Australia.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1017/Australia.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1017/Earth.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1017/Earth.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1017/Eurasia.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1017/Eurasia.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1017/NorthAmerica.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1017/NorthAmerica.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1017/SouthAmerica.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1017/SouthAmerica.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1018/Coordinate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1018/Coordinate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1018/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1018/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1019/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1019/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1020/Computer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1020/Computer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1020/Keyboard.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1020/Keyboard.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1020/Monitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1020/Monitor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1020/Mouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1020/Mouse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1020/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1020/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1020/SystemUnit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1020/SystemUnit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1021/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1021/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task11/task1101/SolarSystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task11/task1101/SolarSystem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task11/task1101/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task11/task1101/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task11/task1102/Planet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task11/task1102/Planet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task11/task1102/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task11/task1102/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task11/task1104/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task11/task1104/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/tests/Child.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/tests/Child.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/tests/Parent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/tests/Parent.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/tests/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/tests/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1001/Skyscraper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1001/Skyscraper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1002/Skyscraper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1002/Skyscraper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1002/var.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1003/Skyscraper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1003/Skyscraper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1003/var.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1010/Iphone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1010/Iphone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1010/var.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1011/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1011/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1011/var.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -232,7 +93,7 @@
       <recent name="com.javarush.task.pro.task05.task0520" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task10.task1011.Car" />
       <module name="com.javarush" />
@@ -259,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Skyscraper (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task10.task1003.Skyscraper" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task12.task1201.Solution" />
       <module name="com.javarush" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.pro.task10.task1003.*" />
+          <option name="PATTERN" value="com.javarush.task.pro.task12.task1201.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -367,19 +228,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Skyscraper (1)" />
       <item itemvalue="Application.Iphone" />
       <item itemvalue="Application.Car" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.University" />
+      <item itemvalue="Application.Solution" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.University" />
         <item itemvalue="Application.Car" />
         <item itemvalue="Application.Iphone" />
-        <item itemvalue="Application.Skyscraper (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -560,7 +421,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617020284644</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="My commit">
+      <created>1617115443564</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1617115443564</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
