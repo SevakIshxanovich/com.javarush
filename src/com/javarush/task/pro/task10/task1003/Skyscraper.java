@@ -10,7 +10,7 @@ package com.javarush.task.pro.task10.task1003;
 Они оба должны инициализировать поля floorsCount и developer.
 */
 
-public class Skyscraper extends var {
+public class Skyscraper {
     private int floorsCount;
     private String developer;
 

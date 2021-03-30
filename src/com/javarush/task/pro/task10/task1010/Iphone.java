@@ -13,7 +13,7 @@ import java.util.Objects;
 
 */
 
-public class Iphone extends var {
+public class Iphone {
     private String model;
     private String color;
     private int price;

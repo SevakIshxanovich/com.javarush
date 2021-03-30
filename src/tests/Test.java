@@ -1,7 +1,5 @@
 package tests;
 
-import com.sun.org.apache.xalan.internal.xsltc.compiler.util.StringStack;
-import jdk.jfr.internal.StringPool;
 
 import java.lang.management.GarbageCollectorMXBean;
 import java.util.Arrays;

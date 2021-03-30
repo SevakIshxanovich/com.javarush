@@ -18,7 +18,7 @@ false
 
 */
 
-public class Car extends var {
+public class Car {
     private String model;
     private int year;
 
