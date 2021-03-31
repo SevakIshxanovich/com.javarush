@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50588a22-7c50-4aa7-a89c-37b9c09a4bfb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/tests/crib/Hotkeys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/crib/Math.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/crib/Random.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/crib/StringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/crib/StringTokenize.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/Strings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/Integers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/crib/Integers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/JavaLang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/crib/Primitive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/crib/Strings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +94,7 @@
       <recent name="com.javarush.task.pro.task10.task1010" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="tests.crib" />
       <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -207,7 +216,7 @@
       <module name="com.javarush" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.*" />
+          <option name="PATTERN" value="tests.crib.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -450,7 +459,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617173603900</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="My commit">
+      <created>1617184328262</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1617184328262</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">

@@ -1,6 +1,6 @@
-package tests;
+package tests.crib;
 
-public class JavaLang {
+public class Primitive {
     /*
 
 Integer.MAX_VALUE                   Максимальное значение типа int

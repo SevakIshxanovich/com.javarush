@@ -1,8 +1,8 @@
-package tests;
+package tests.crib;
 
 public class Strings {
 
-    /**
+    /*
 
             Сравнение строк
 
@@ -23,7 +23,7 @@ public class Strings {
 
      boolean endsWith(String suffix)        Проверят, что текущая строка заканчивается на строку suffix
 
-     boolean regionMatches(int toffset, String str, int offset, int len)    Сравнивает части строк
+     boolean regionMatches(int toOffset, String str, int offset, int len)    Сравнивает части строк
 
      ----------------------------------------------------------
      String s = "Hello";
@@ -83,7 +83,7 @@ public class Strings {
      concat():              объединяет строки
      valueOf():             преобразует объект в строковый вид
      join():                соединяет строки с учетом разделителя
-     сompare():             сравнивает две строки
+     compare():             сравнивает две строки
      charAt():              возвращает символ строки по индексу
      getChars():            возвращает группу символов
      equals():              сравнивает строки с учетом регистра
@@ -98,5 +98,6 @@ public class Strings {
      substring():           возвращает подстроку, начиная с определенного индекса до конца или до определенного индекса
      toLowerCase():         переводит все символы строки в нижний регистр
      toUpperCase():         переводит все символы строки в верхний регистр
+
      */
 }
