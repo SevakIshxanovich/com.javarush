@@ -1,5 +1,7 @@
 package tests;
 
+import java.util.Objects;
+
 public class Child extends Parent {
     public static String s = child();
     public String ss = child2();
