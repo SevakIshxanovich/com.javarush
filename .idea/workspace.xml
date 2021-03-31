@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50588a22-7c50-4aa7-a89c-37b9c09a4bfb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/tests/Integers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/Strings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/Strings.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +89,7 @@
       <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="tests" />
       <recent name="com.javarush.task.pro.task05.task0521" />
       <recent name="com.javarush.task.pro.task05.task0520" />
     </key>
@@ -442,7 +443,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617173261142</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="My commit">
+      <created>1617173603900</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1617173603900</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
