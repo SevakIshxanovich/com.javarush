@@ -1,4 +1,4 @@
-package tests.crib;
+package tests.crib.Strings;
 
 public class Strings {
 

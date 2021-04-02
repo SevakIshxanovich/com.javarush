@@ -2,9 +2,11 @@ package tests.crib;
 
 public class ArrayList {
     /*
+
 Операции с ArrayList
 
-Методы	Описание
+Методы	                                Описание
+
 void add(тип value)                 Добавляет в список переданный элемент
 void add(int index, тип value)      Добавляет элемент в определенное место списка.
 тип get(int index)                  Возвращает элемент, который находится под номером index
