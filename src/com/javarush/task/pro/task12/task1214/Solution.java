@@ -16,6 +16,5 @@ public class Solution {
 
     public static void main(String[] args) {
         programmingLanguages.removeIf(n -> (!n.equals("Java")));
-        programmingLanguages.toString(System.out::println);
     }
 }
