@@ -5,21 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50588a22-7c50-4aa7-a89c-37b9c09a4bfb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task12/task1212/CustomStringArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task12/task1212/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task12/task1213/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task12/task1214/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/crib/Strings/StringFormatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/crib/Strings/StringPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task12/task1215/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/crib/Collections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/crib/ListSetMapQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/crib/Strings/HashMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1016/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1016/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1017/Earth.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/javarush/task/pro/task10/task1017/Earth.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1016/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1016/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1017/Earth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1017/Earth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/crib/ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/crib/ArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/crib/StringBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/crib/Strings/StringBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/crib/StringTokenize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/crib/Strings/StringTokenize.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/crib/Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/crib/Strings/Strings.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +99,7 @@
       <recent name="com.javarush.task.pro.task05.task0520" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution (2)">
+  <component name="RunManager" selected="Application.Solution (3)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task12.task1212.Solution" />
       <module name="com.javarush" />
@@ -136,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task12.task1210.Solution" />
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task12.task1215.Solution" />
       <module name="com.javarush" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.pro.task12.task1210.*" />
+          <option name="PATTERN" value="com.javarush.task.pro.task12.task1215.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -244,19 +234,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution (4)" />
       <item itemvalue="Application.Solution" />
       <item itemvalue="Application.Solution (1)" />
       <item itemvalue="Application.Solution (5)" />
       <item itemvalue="Application.Solution (2)" />
+      <item itemvalue="Application.Solution (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Solution (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -493,7 +483,21 @@
       <option name="project" value="LOCAL" />
       <updated>1617220318512</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="My commit">
+      <created>1617379477233</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1617379477234</updated>
+    </task>
+    <task id="LOCAL-00034" summary="My commit">
+      <created>1617379541697</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1617379541697</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
