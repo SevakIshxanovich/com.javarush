@@ -1,4 +1,4 @@
-package tests.crib.Strings;
+package tests.crib;
 
 public class HashMap {
     /*
