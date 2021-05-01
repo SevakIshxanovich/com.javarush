@@ -14,10 +14,7 @@ countSpaces(String),
 
 public class Solution {
     public static void main(String[] args) {
-        String string = """
-                Думаю, это будет новой фичей.
-                Только не говорите никому, что она возникла случайно.
-                """;
+        String string = "Думаю, это будет новой фичей. Только не говорите никому, что она возникла случайно.";
 
         System.out.println("Количество цифр в строке : " + countDigits(string));
         System.out.println("Количество букв в строке : " + countLetters(string));
