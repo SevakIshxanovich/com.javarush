@@ -7,17 +7,23 @@ public class Child extends Parent {
     public String ss = child2();
 
     public static String child() {
-        System.out.println("ЭТО static String s Child");
+        System.out.println("Child ЭТО STATIC String s Child");
+        System.out.println("Child ЭТО Все еще STATIC String s Child");
+        System.out.println("Child КОНЕЦ STATIC String s Child");
         return "static String s Child";
     }
 
     public String child2() {
-        System.out.println("ЭТО String ss Child");
+        System.out.println("Child ЭТО STRING ss Child");
+        System.out.println("Child ЭТО Все еще STRING ss Child");
+        System.out.println("Child КОНЕЦ STRING ss Child");
         return "String ss Child";
     }
 
     public Child() {
-        System.out.println("ЭТО Constructor Child");
+        System.out.println("Child ЭТО CONSTRUCTOR Child");
+        System.out.println("Child ЭТО Все еще CONSTRUCTOR Child");
+        System.out.println("Child КОНЕЦ CONSTRUCTOR Child");
     }
 
     @Override

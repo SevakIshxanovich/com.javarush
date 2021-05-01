@@ -1,6 +1,6 @@
 package tests.crib;
 
-public class Hotkeys {
+public class IntellijIDEA {
     /*
 
     Поиск и замена

@@ -29,7 +29,19 @@ public class Solution {
 
     public static String toCustomString(Number number) {
         //напишите тут ваш код
+        if (number instanceof Byte) {
+            byte b = (byte) number;
+            return (byte)(b/2) + "b";
+        }
+        else if (number instanceof Integer) {
+            int b = (int) number;
+            return b/3+"";
+        }
+        else if (number instanceof Double) {
+            double b = (double) number;
+            return (double)(b*20) + "";
+        }
 
-        return null;
+        return UNEXPECTED_TYPE;
     }
 }

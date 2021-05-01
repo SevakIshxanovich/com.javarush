@@ -3,7 +3,8 @@ package com.javarush.task.pro.task05.task0501;
 /*
 Создаем массивы
 
- В методе main проинициализируй переменные intArray и doubleArray массивами соответствующих типов, размер которых равен 10.
+ В методе main проинициализируй переменные intArray и doubleArray массивами соответствующих типов,
+ размер которых равен 10.
 */
 
 public class Solution {
